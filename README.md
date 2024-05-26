@@ -2,8 +2,8 @@
 
 [![License](https://eddelbuettel.github.io/badges/GPL2+.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/SpatMCA)](https://CRAN.R-project.org/package=SpatMCA)
-[![R build status](https://github.com/egpivo/SpatMCA/workflows/R-CMD-check/badge.svg)](https://github.com/egpivo/SpatMCA/actions)
-[![Coverage Status](https://img.shields.io/codecov/c/github/egpivo/SpatMCA/master.svg)](https://codecov.io/github/egpivo/SpatMCA?branch=master)
+[![R build status](https://github.com/SpaceTimeViz/SpatMCA/workflows/R-CMD-check/badge.svg)](https://github.com/SpaceTimeViz/SpatMCA/actions)
+[![Coverage Status](https://codecov.io/gh/SpaceTimeViz/SpatMCA/graph/badge.svg?token=XdMXE86j6N)](https://codecov.io/github/SpaceTimeViz/SpatMCA?branch=master)
 [![Downloads (monthly)](https://cranlogs.r-pkg.org/badges/SpatMCA?color=brightgreen)](https://www.r-pkg.org/pkg/SpatMCA)
 [![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/SpatMCA?color=brightgreen)](https://www.r-pkg.org/pkg/SpatMCA)
 [![Environmetrics](https://img.shields.io/badge/Environmetrics-10.1002%2Fenv.2481-brightgreen)](https://doi.org/10.1002/env.2481)
@@ -27,7 +27,7 @@ install.packages("SpatMCA")
 
 ### Install the current development version from GitHub:
 ```r
-remotes::install_github("egpivo/SpatMCA")
+remotes::install_github("SpaceTimeViz/SpatMCA")
 ```
 #### Please Note:
 - **Windows Users:** Ensure that you have [Rtools](https://cran.r-project.org/bin/windows/Rtools/) installed before proceeding with the installation.
@@ -72,7 +72,7 @@ GPL (>= 2)
 1. To cite package ‘SpatMCA’ in publications use:
 ```
   Wang W, Huang H (2023). _SpatMCA: Regularized Spatial Maximum Covariance Analysis_.
-  R package version 1.0.2.6, <https://github.com/egpivo/SpatMCA>.
+  R package version 1.0.2.6, <https://github.com/SpaceTimeViz/SpatMCA>.
 ```
 2. A BibTeX entry for LaTeX users is
 ```
@@ -81,6 +81,6 @@ GPL (>= 2)
     author = {Wen-Ting Wang and Hsin-Cheng Huang},
     year = {2023},
     note = {R package version 1.0.2.6},
-    url = {https://github.com/egpivo/SpatMCA},
+    url = {https://github.com/SpaceTimeViz/SpatMCA},
   }
 ```
